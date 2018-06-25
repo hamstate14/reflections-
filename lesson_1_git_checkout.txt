@@ -1,0 +1,5 @@
+the git checkout is a little strange bc once you check it out 
+it effects the log, by detaching the head(the most reccent code) and makes it the tempory head 
+
+meaning that the history from the head to the checkout is temp lost 
+
